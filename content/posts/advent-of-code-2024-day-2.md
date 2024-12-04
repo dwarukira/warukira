@@ -4,3 +4,6 @@ draft = false
 title = 'Advent of Code 2024 Day 2'
 +++
 
+```python
+
+```
