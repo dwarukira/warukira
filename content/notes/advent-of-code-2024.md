@@ -64,3 +64,43 @@ def safe_count_part_2():
 print(safe_count_part_2)
 
 ```
+
+
+
+
+## Day three
+
+using re
+
+```python
+import re
+input_str = open("input3.txt").read()
+
+# `part one`
+
+multiplications_instructions_re = re.compile(r"mul\(\w+,\w+\)")
+
+count = sum([eval(input_str[i.span()[0]+4:i.span()[1]-1].replace(",", "*")) for i in multiplications_instructions_re.finditer(input_str)])
+print(count)
+
+
+# part two
+
+token_instructions_re = re.compile(r"mul\(\w+,\w+\)|do\(\)|don't\(\)")
+program: list[str] = token_instructions_re.findall(input_str)
+
+enabled = True
+
+total = 0
+
+for ins in program:
+    if 'mul' in ins and enabled:
+        total += eval(ins[4:-1].replace(",", "*"))
+    elif ins == 'do()':
+        enabled = True
+    elif ins == "don't()":
+        enabled = False
+print(total)
+    
+```
+
