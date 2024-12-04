@@ -86,6 +86,7 @@ print(count)
 
 # part two
 
+# don't judge my regex. very pro - i think we have thing like group but meeeh
 token_instructions_re = re.compile(r"mul\(\w+,\w+\)|do\(\)|don't\(\)")
 program: list[str] = token_instructions_re.findall(input_str)
 
