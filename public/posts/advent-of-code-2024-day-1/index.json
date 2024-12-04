@@ -1,0 +1,15 @@
+{
+  "graph": {
+    "/posts/advent-of-code-2024-day-1/": {
+      "in": [],
+      "out": []
+    }
+  },
+  "pages": {
+    "/posts/advent-of-code-2024-day-1/": {
+      "permalink": "/posts/advent-of-code-2024-day-1/",
+      "section": "posts",
+      "title": "Advent of Code 2024 Day 1"
+    }
+  }
+}
