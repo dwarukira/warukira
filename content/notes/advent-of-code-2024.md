@@ -1,6 +1,6 @@
 +++
 date = '2024-12-04T11:40:32+03:00'
-draft = true
+draft = false
 title = 'Advent of Code 2024'
 +++
 
