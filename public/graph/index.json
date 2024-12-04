@@ -3,6 +3,10 @@
     "/posts/advent-of-code-2024-day-1/": {
       "in": [],
       "out": []
+    },
+    "/posts/advent-of-code-2024-day-2/": {
+      "in": [],
+      "out": []
     }
   },
   "pages": {
@@ -10,6 +14,11 @@
       "permalink": "/posts/advent-of-code-2024-day-1/",
       "section": "posts",
       "title": "Advent of Code 2024 Day 1"
+    },
+    "/posts/advent-of-code-2024-day-2/": {
+      "permalink": "/posts/advent-of-code-2024-day-2/",
+      "section": "posts",
+      "title": "Advent of Code 2024 Day 2"
     }
   }
 }

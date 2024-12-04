@@ -45,12 +45,12 @@ enableRobotsTXT = true # IMPORTANT: set to true if you want to use the theme's g
 
   # Show content graph for single notes and posts.
   # Default: true
-  showGraph = true
+  showGraph = false
 
   # Author details for the JSON-LD structured data.
   [params.author]
-    name = 'John Doe'
-    email = 'johndoe@example.com'
+    name = 'Duncan Warukira'
+    email = 'contact@warukira.com'
 
   # Homepage setup
   [params.home]
