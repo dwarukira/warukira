@@ -1,5 +1,5 @@
 +++
-date = '2025-27-04T18:12:58+0300'
+date = '2025-27-01T18:00:00+03:00'
 draft = false
 title = 'No more drinking'
 +++
