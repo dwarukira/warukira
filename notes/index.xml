@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notes on warukira's website</title><link>https://dwarukira.github.io/warukira/notes/</link><description>Recent content in Notes on warukira's website</description><generator>Hugo</generator><language>en-us</language><managingEditor>contact@warukira.com (Duncan Warukira)</managingEditor><webMaster>contact@warukira.com (Duncan Warukira)</webMaster><copyright>warukira</copyright><lastBuildDate>Wed, 04 Dec 2024 11:40:32 +0300</lastBuildDate><atom:link href="https://dwarukira.github.io/warukira/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Advent of Code 2024</title><link>https://dwarukira.github.io/warukira/notes/advent-of-code-2024/</link><pubDate>Wed, 04 Dec 2024 11:40:32 +0300</pubDate><author>contact@warukira.com (Duncan Warukira)</author><guid>https://dwarukira.github.io/warukira/notes/advent-of-code-2024/</guid><description>&lt;h4 id="day-one" class="scroll-mt-8 group">
+ Day One
+ 
+ &lt;a href="#day-one"
+ class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
+ aria-hidden="true" title="Link to this heading" tabindex="-1">
+ &lt;svg
+ xmlns="http://www.w3.org/2000/svg"
+ width="16"
+ height="16"
+ fill="none"
+ stroke="currentColor"
+ stroke-linecap="round"
+ stroke-linejoin="round"
+ stroke-width="2"
+ class="lucide lucide-link w-4 h-4 block"
+ viewBox="0 0 24 24"
+>
+ &lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+ &lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+&lt;/svg>
+
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;figure class="codeblock not-prose relative scroll-mt-8" id="codeblock-01">
+ &lt;aside
+ class="absolute right-0 top-0 hidden rounded-bl-sm rounded-tr-sm bg-white/10 px-2 py-1 text-white/70 transition-opacity md:inline-block"
+ >
+ &lt;div class="codeblock-meta flex max-w-xs flex-row items-center space-x-3">
+ &lt;div class="small-caps shrink cursor-default truncate font-mono text-xs" aria-hidden="true">
+ &lt;span class="relative">python&lt;/span>
+ &lt;/div>
+ &lt;div>
+ &lt;clipboard-copy
+ type="button"
+ aria-label="Copy code to clipboard"
+ title="Copy code to clipboard"
+ class="block cursor-pointer transition-colors hover:text-sky-400"
+ target="#codeblock-01 code"
+ >
+ &lt;svg
+ xmlns="http://www.w3.org/2000/svg"
+ fill="none"
+ stroke="currentColor"
+ stroke-width="2"
+ stroke-linecap="round"
+ stroke-linejoin="round"
+ class="lucide lucide-clipboard h-4 w-4"
+ viewBox="0 0 24 24"
+>
+ &lt;rect width="8" height="4" x="8" y="2" rx="1" ry="1" />
+ &lt;path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2" />
+&lt;/svg>
+
+ &lt;/clipboard-copy>
+ &lt;/div>
+ &lt;div>
+ &lt;a
+ href="#codeblock-01"
+ class="block"
+ aria-label="Link to this code block"
+ title="Link to this code block"
+ >
+ &lt;svg
+ xmlns="http://www.w3.org/2000/svg"
+ width="16"
+ height="16"
+ fill="none"
+ stroke="currentColor"
+ stroke-linecap="round"
+ stroke-linejoin="round"
+ stroke-width="2"
+ class="lucide lucide-link w-4 h-4 block"
+ viewBox="0 0 24 24"
+>
+ &lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+ &lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+&lt;/svg>
+
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+ &lt;/aside>
+ &lt;p class="sr-only">python code snippet start&lt;/p></description></item></channel></rss>
